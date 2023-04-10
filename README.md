@@ -4,7 +4,7 @@ Convert JSON data to an editable HTML table with the option to save changes to L
 
 ## Demo
 
-You can try out a demo of this project [here](https://ohsorrow.github.io/Json-as-a-Table/).
+You can try out a demo of this project [here](https://ohsorrow.me/jsontable/).
 
 ## Features
 
